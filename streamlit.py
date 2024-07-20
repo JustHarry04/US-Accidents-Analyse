@@ -453,10 +453,6 @@ elif st.session_state.page == "analysis":
     st.pyplot(fig)
 
     
-    
-    if st.button("Back to Overview"):
-        st.session_state.page = "overview"
-        st.experimental_rerun()
         
         
         

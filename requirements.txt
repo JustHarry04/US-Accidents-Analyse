@@ -6,5 +6,4 @@ plotly
 calendar
 scipy
 pylab
-folium 
 HeatMap

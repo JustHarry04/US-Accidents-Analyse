@@ -121,7 +121,7 @@ elif st.session_state.page == "analysis":
     description2 = """
     ### Accident Severity by State
 
-    This choropleth map illustrates the severity of accidents across different states in the US based on a sample of 10,000 accident records. The severity is depicted on a scale from 1 to 4, where 1 represents the least severe accidents and 4 represents the most severe ones.
+    This Heatmap map illustrates the severity of accidents across different states in the US based on a sample of 10,000 accident records. The severity is depicted on a scale from 1 to 4, where 1 represents the least severe accidents and 4 represents the most severe ones.
     """
     st.markdown(description2)
     

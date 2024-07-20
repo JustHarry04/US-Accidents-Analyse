@@ -1,8 +1,9 @@
 pandas==2.0.3
 streamlit==1.15.0 
-matplotlib
+matplotlib==3.9.1
 seaborn==0.12.2 
 plotly==5.22.0
-scipy
+scipy==1.14.0
 pylab
 HeatMap
+folium

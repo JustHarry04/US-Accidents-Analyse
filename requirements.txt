@@ -1,9 +1,8 @@
-pandas
-streamlit 
+pandas==2.0.3
+streamlit==1.15.0 
 matplotlib
-seaborn 
-plotly
-calendar
+seaborn==0.12.2 
+plotly==5.22.0
 scipy
 pylab
 HeatMap
